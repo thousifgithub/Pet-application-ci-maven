@@ -6,12 +6,12 @@
   <groupId>org.springframework.samples</groupId>
   <artifactId>spring-petclinic</artifactId>
   <version>2.3.1.BUILD-SNAPSHOT</version>
+  <package>jar<package>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>2.3.1.RELEASE</version>
-    <package>jar<package>
   </parent>
   <name>petclinic</name>
 
